@@ -23,7 +23,7 @@ workshops around the world.
 
 The Chapter about NumPy is already a more advanced chapter aimed for those, who would like to continue using Python for data analysis and for machine learning.
 
-## Index
+## Index of the book chapters 
 
 Introduction to Python Programming
 

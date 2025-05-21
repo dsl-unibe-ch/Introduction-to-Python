@@ -27,7 +27,7 @@ The Chapter about NumPy is already a more advanced chapter aimed for those, who 
 
 Introduction to Python Programming
 
-0. [Introduction]([00-Introduction.ipynb](https://nbviewer.org/github/jakevdp/WhirlwindTourOfPython/blob/master/00-Introduction.ipynb)) 
+0. [Introduction](https://nbviewer.org/github/jakevdp/WhirlwindTourOfPython/blob/master/00-Introduction.ipynb)
 1. [How to Run Python Code](01_01-How-to-Run-Python-Code.ipynb)
 2. [Basic Python Syntax](01_02-Basic-Python-Syntax.ipynb)
 3. [Python Semantics: Variables](01_03-Semantics-Variables.ipynb)

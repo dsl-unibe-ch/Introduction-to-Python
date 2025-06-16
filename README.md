@@ -25,6 +25,7 @@ The Chapter about NumPy is already a more advanced chapter aimed for those, who 
 
 ## Index of the book chapters 
 
+You need to open the files in colab (see second button named "colab" on the upper left corner of this page). 
 Introduction to Python Programming
 
 0. [Introduction](https://nbviewer.org/github/jakevdp/WhirlwindTourOfPython/blob/master/00-Introduction.ipynb)

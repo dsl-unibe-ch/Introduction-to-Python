@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KingaS03/Introduction-to-Python)
 
-Please read the PowerPoint "IntoSlides" first.
+Please read the PowerPoint "ShortIntoSlides" first.
 
 # Introduction to Python Course
  

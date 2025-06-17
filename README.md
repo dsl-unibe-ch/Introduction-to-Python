@@ -2,7 +2,8 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KingaS03/Introduction-to-Python)
 
-Please read the PowerPoint "ShortIntoSlides" first. It is in the folder "IntroductorySlides". Do not look at the html verrsion, as it is outdated.
+Please read the PowerPoint "ShortIntoSlides" first. It is in the folder "IntroductorySlides".
+The book and it's files can be opened directly withou needing to use colab if you open the folder "course" and then just click on the chapers you'd like to read. 
 
 # Introduction to Python Course
  

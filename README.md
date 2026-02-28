@@ -2,11 +2,20 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KingaS03/Introduction-to-Python)
 
+## Start Information
 Please read the PowerPoint "ShortIntoSlides" first. It is in the folder "IntroductorySlides".
 The book and it's files can be opened directly without needing to use colab if you open the folder "course" and then just click on the chapers you'd like to read.
 After you read the Introductory Slides, you can work through the book in your own pace and try the homework whenever you need a break from the theory XD
 Solutions to the homework are already provided so you can check your homework on your own. 
 You will not be asked to hand it in.
+
+## Organisation
+This is a 3-day-course that you can do on your own at home before the CAS starts.
+If you have questions regarding the exercises or something theoretical, join the Q&A sessions on the dates listed below.
+Please provide your questions beforehand via Ilias.
+* Q&A session:<br>
+**12 August 2026, 16-17 o'clock or<br>
+14 August 2026, 16-17 o'clock.**
 
 # Introduction to Python Course
  
